@@ -1,3 +1,23 @@
+# Hi 👋
+
+You probably came to this branch by [this article](https://dev.to/ryuheechul/developing-react-components-with-completely-dark-themed-storybook-1g3) that I posted on [dev.to](https://dev.to).
+
+## Code
+
+Let me guess, you are probably interested in [/.storybook](https://github.com/ryuheechul/helm-live/tree/chakra-storybook/.storybook) and [/src/stories](https://github.com/ryuheechul/helm-live/tree/chakra-storybook/src/stories).
+
+## Commits
+
+You might also want to look at [commits](https://github.com/ryuheechul/helm-live/commits/chakra-storybook) to understand the sequences to enable the dark mode.
+
+## Looking for updates on this repository?
+
+As you guessed this is not the master branch and all the updates for actual code will be added there not in this branch.
+
+# Rest of this is pre populated by `create-react-app`
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
