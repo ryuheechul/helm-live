@@ -1,5 +1,6 @@
 import React from 'react';
-import { Code, Heading, Box } from "@chakra-ui/core";
+import { Box } from "@chakra-ui/core";
+import { Code } from './Code.js'
 
 export const File = ({children, name}) => (
   <Box maxW="sm" borderWidth="1px" rounded="lg" overflow="hidden">
