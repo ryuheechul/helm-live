@@ -11,6 +11,11 @@
 # production
 /build
 
+# reasonml
+/lib/bs
+.merlin
+.bsb.lock
+
 # misc
 .DS_Store
 .env.local

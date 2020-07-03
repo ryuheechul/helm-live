@@ -1,14 +1,7 @@
 import React from 'react';
 import { Box } from "@chakra-ui/core";
 import { Code } from './Code.js'
-
-// https://stackoverflow.com/a/680982/1570165
-const re = /(?:\.([^.]+))?$/;
-const filenameToLang = filename => {
-  const ext = re.exec(filename)[1];
-
-  return ext === undefined ? "text" : ext;
-};
+import { extFromFilename as  filenameToLang } from '../reason/Utils.bs.js';
 
 export const File = ({children, name}) => (
   <Box maxW="sm" borderWidth="1px" rounded="lg" overflow="hidden">
