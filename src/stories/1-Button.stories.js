@@ -1,6 +1,6 @@
 import React from 'react';
 import { action } from '@storybook/addon-actions';
-import { Button } from '@chakra-ui/core';
+import { Button } from '@chakra-ui/react';
 
 export default {
   title: 'Button',

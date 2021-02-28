@@ -1,6 +1,5 @@
 import CSSReset from "@chakra-ui/css-reset"
-import theme from "../src/chakra"
-import { ChakraProvider, Box } from "@chakra-ui/core"
+import { ChakraProvider, Box, theme } from "@chakra-ui/react"
 import { addDecorator } from "@storybook/react"
 import * as React from "react"
 

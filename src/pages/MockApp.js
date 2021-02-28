@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Flex, Code } from "@chakra-ui/core";
+import { Box, Flex, Code } from "@chakra-ui/react";
 import { File } from '../components/File.js'
 
 export const MockApp = ({children, name}) => (

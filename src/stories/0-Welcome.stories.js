@@ -1,6 +1,6 @@
 import React from 'react';
 import { linkTo } from '@storybook/addon-links';
-import { Box, Link } from '@chakra-ui/core'
+import { Box, Link } from '@chakra-ui/react'
 
 const Welcome = ({showApp}) => (
   <>

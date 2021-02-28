@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box } from "@chakra-ui/core";
+import { Box } from "@chakra-ui/react";
 import { Code } from './Code.js'
 import { extFromFilename as  filenameToLang } from '../reason/Utils.bs.js';
 
