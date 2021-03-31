@@ -29,7 +29,7 @@
     "build": "run-p build:*",
     "test": "run-p test:*",
     "storybook": "start-storybook -p 9009 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -o public"
   },
   "eslintConfig": {
     "extends": "react-app"
